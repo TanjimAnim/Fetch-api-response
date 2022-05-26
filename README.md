@@ -1,6 +1,6 @@
 # Fetch-api-response
-Fetching api response using JS and Python.
-For JS:
+Fetching api response using JS and Python. <br>
+### For JS:
 Download all files(except .py file) in a single folder. Then run the command 'node fetchAPI.js' to run the file. 
-For Python:
+### For Python:
 Download the .py file and run it using any Python editor. 
